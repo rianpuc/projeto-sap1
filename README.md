@@ -6,6 +6,9 @@ O trabalho é uma evolução de um projeto anterior desenvolvido pelo aluno:
 
 O projeto foi disponibilizado pelo professor Cláudio Dias Campos.
 
+> [!WARNING]
+> Compatibilidade: Este projeto é compatível exclusivamente com o simulador [Logisim](http://www.cburch.com/logisim/). Não é garantido que funcione no [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution).
+
 ## Vídeo Demonstrativo
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=nK__YZ1xI5M">
